@@ -1,0 +1,5 @@
+partitions,processing_time_s,memory_mb,note
+4,0,0,Baseline
+8,0,0,Optimised
+16,0,0,Over-partitioned
+200,0,0,Shuffle default

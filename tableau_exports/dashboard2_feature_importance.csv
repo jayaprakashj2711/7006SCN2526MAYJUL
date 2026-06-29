@@ -1,0 +1,14 @@
+feature,importance
+trip_distance,0.0
+fare_amount,0.0
+pickup_hour,0.0
+pickup_day,0.0
+pickup_month,0.0
+is_weekend,0.0
+is_rush_hour,0.0
+trip_duration_min,0.0
+speed_mph,0.0
+fare_per_mile,0.0
+passenger_count,0.0
+payment_type_idx,0.0
+vendor_idx,0.0

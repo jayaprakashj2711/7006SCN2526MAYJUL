@@ -1,0 +1,6 @@
+stage,row_count,note
+Raw Load,12672737,Original dataset
+After Cleaning,11912372,Invalid trips removed
+After Feature Eng,11658918,Duration/speed filters
+Train Set,9377825,80% split
+Test Set,2281092,20% split

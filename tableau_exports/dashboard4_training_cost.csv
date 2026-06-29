@@ -1,0 +1,5 @@
+Model,Training_Time_s,Relative_Cost
+Logistic Regression,0,Low
+Random Forest,0,Medium
+GBT,0,High
+Linear SVM,0,Low-Medium
